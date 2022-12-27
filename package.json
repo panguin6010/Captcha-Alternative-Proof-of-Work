@@ -1,0 +1,4 @@
+"scripts": {
+    "start": "webpack-dev-server --open"
+  }
+  
